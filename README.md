@@ -3,14 +3,20 @@ Basic celestial navigation software that plots Lines of Position (LOPs) on a 3D 
 
 # What it does?
 1.Calculate the celestial body's position (GHA, Dec) at a given time.
+
 2.Compute the altitude and azimuth from an assumed position.
+
 3.Calculate the intercept and azimuth for position fixing.
+
 4.Visualize the LOPs and the assumed/fixed positions on a 3D globe.
 
 # Library
 'numpy' for numerical computations.
+
 'datetime' for handling date and time.
+
 'matplotlib' for plotting.
+
 'mpl_toolkits.basemap' for 3D globe visualization.
 
 # Warning
